@@ -31,11 +31,7 @@ where
 
 
 ## Visualization of results:
-|          |W/O GA | GA | GT  |
-|----------|:----:|:---:|:---:|:---:|:---:|:---:|
-|  Chair | ![chair](https://github.com/huzhouxiang/shape2gram-mxnet/tree/main/output/chair/images/Before%20GA%201.png) | ![chair](https://github.com/huzhouxiang/shape2gram-mxnet/tree/main/output/chair/images/GA%201.png)  | ![chair](https://github.com/huzhouxiang/shape2gram-mxnet/tree/main/output/chair/images/GT%201.png)  |
-| **W GA** | 0.552 | **0.627**  | 0.405  | 0.629  |  0.549  | **0.464** |
-| **Ori** | **0.663** | 0.560 | **0.439**  | **0.649**  |  **0.598**  | 0.461 |
+
 
 Chair(befor GA):
 ![Chair(befor GA):](https://github.com/huzhouxiang/shape2gram-mxnet/tree/main/output/chair/images/Before%20GA%201.png)
