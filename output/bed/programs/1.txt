@@ -1,0 +1,8 @@
+draw('Top', 'Circle', P=(3,0,0), G=(3,9))
+
+for(i<2, 'Trans', u1=(0,1,8))
+    for(i<2, 'Trans', u2=(0,17,-1))
+        draw('Leg', 'Cub', P=(-7,-11,-6)+i*u1+j*u2, G=(14,4,3))
+
+draw('Base', 'Circle', P=(-6,-2,0), G=(2,8))
+

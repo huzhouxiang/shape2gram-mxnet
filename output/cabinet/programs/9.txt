@@ -1,0 +1,11 @@
+draw('Top', 'Rec', P=(5,0,0), G=(5,5,12))
+
+for(i<2, 'Trans', u=(1,-1,19))
+    draw('Sideboard', 'Cub', P=(-11,0,-12)+i*u, G=(16,5,6))
+
+draw('Layer', 'Rec', P=(-7,0,1), G=(7,4,12))
+
+draw('Layer', 'Rec', P=(-8,0,1), G=(7,5,12))
+
+draw('Locker', 'Cub', P=(-7,-5,-5), G=(14,10,10))
+

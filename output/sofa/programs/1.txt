@@ -1,0 +1,21 @@
+draw('Top', 'Rec', P=(-4,0,0), G=(5,5,12))
+
+for(i<2, 'Trans', u=(1,0,21))
+    draw('Sideboard', 'Cub', P=(-5,0,-11)+i*u, G=(9,5,1))
+
+draw('Layer', 'Rec', P=(-5,-2,2), G=(7,7,6))
+
+draw('Back', 'Cub', P=(2,4,-11), G=(5,2,23), theta=21°)
+
+for(i<2, 'Trans', u=(1,0,21))
+    draw('Locker', 'Cub', P=(-1,-3,-12)+i*u, G=(5,7,3))
+
+for(i<2, 'Trans', u=(1,0,20))
+    draw('Locker', 'Cub', P=(-1,-3,-12)+i*u, G=(5,7,4))
+
+draw('Locker', 'Cub', P=(-3,-3,2), G=(7,7,9))
+
+draw('Locker', 'Cub', P=(-2,-3,2), G=(7,7,9))
+
+draw('Locker', 'Cub', P=(-2,-2,2), G=(7,7,9))
+

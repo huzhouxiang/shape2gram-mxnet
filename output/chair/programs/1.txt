@@ -1,0 +1,12 @@
+draw('Top', 'Circle', P=(1,0,0), G=(2,5))
+
+draw('Sup', 'Cylinder', P=(-10,0,0), G=(13,2))
+
+for(i<5, 'Rot', theta=72°, axis=(-10,-1,0)
+    draw('Base', 'Line', P1=(-10,-1,0), P2=(-12,-7,-5), theta*i, axis)
+
+draw('Back', 'Cub', P=(1,2,-5), G=(10,2,10), theta=5°)
+
+for(i<2, 'Trans', u=(0,0,10))
+    draw('Hori_Bar', 'Cub', P=(3,-4,-7)+i*u, G=(3,5,3))
+
