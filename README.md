@@ -25,7 +25,9 @@ I tabulate the comparion of IoU bwteen original paper and this repo as follows.
 | **Ori** | **0.663** | 0.560 | **0.439**  | **0.649**  |  **0.598**  | 0.461 |
 
 
-# Visualization of results:
+## Visualization of results:
+
+Chair:[chair](https://github.com/huzhouxiang/shape2gram-mxnet/tree/main/output/chair/images/Before GA 1.png)
 
 
 
