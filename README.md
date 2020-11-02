@@ -20,8 +20,10 @@ I tabulate the comparion of IoU bwteen original paper and this repo as follows.
 
 |          |Chair | Table | Bed  | Sofa  | Cabinet |  Bench  |
 |----------|:----:|:---:|:---:|:---:|:---:|:---:|
-|  **Paper** | .663 | .560  | .439  | .649  |  .598  | .461 |
-| **This Repo** | .663 | .560  | .439  | .649  |  .598  | .461 |
+|  **W/O GA** | 0.492 | 0.456  | 0.314  | 0.371  |  0.327 | 0.201 |
+| **W GA** | 0.552 | **0.627**  | 0.405  | 0.629  |  0.549  | **0.464** |
+| **Ori** | **0.663** | 0.560 | **0.439**  | **0.649**  |  **0.598**  | 0.461 |
+
 
 # Visualization of results:
 
