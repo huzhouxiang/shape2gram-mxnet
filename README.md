@@ -33,6 +33,13 @@ where
 ## Visualization of results:
 
 
+cabinet (generated):
+![plan (generated):](https://github.com/huzhouxiang/Pix2Vox-with-mxnet/blob/master/visualized%20results%20of%20prediction/generated%20volomes/voxels-000022.png)
+cabinet (GT):
+![plan (GT):](https://github.com/huzhouxiang/Pix2Vox-with-mxnet/blob/master/visualized%20results%20of%20prediction/ground%20truth/voxels-000002.png)
+
+
+
 Chair(befor GA):
 ![Chair(befor GA):](https://github.com/huzhouxiang/shape2gram-mxnet/tree/main/output/chair/images/Before%20GA%201.png)
 
