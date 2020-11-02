@@ -35,15 +35,19 @@ where
 
 Chair(befor GA):
 ![Chair(befor GA):](https://github.com/huzhouxiang/shape2gram-mxnet/tree/main/output/chair/images/Before%20GA%201.png)
+
 Chair(after GA):
 ![Chair(after GA):](https://github.com/huzhouxiang/shape2gram-mxnet/tree/main/output/chair/images/GA%201.png)
+
 Chair(GT):
 ![Chair(GT)](https://github.com/huzhouxiang/shape2gram-mxnet/tree/main/output/chair/images/GT%201.png)
 
 Table(befor GA):
 ![Table(befor GA):](https://github.com/huzhouxiang/shape2gram-mxnet/tree/main/output/table/images/Before%20GA%201.png)
+
 Chair(after GA):
 ![Table(after GA):](https://github.com/huzhouxiang/shape2gram-mxnet/tree/main/output/table/images/GA%201.png)
+
 Chair(GT):
 ![Table(GT)](https://github.com/huzhouxiang/shape2gram-mxnet/tree/main/output/table/images/GT%201.png)
 
