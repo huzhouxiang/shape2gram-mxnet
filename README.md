@@ -74,7 +74,7 @@ Cabinet(GT):
 ![Cabinet(GT)](https://github.com/huzhouxiang/shape2gram-mxnet/tree/main/output/cabinet/images/GT%201.png)
 
 Bed(befor GA):
-![Bed(befor GA):](https://github.com/huzhouxiang/shape2gram-mxnet/tree/main/output/bed/images/Before%20GA%201.png)
+![Bed(befor GA):](https://github.com/huzhouxiang/shape2gram-mxnet/blob/main/output/bed/images/Before%20GA%201.png)
 Bed(after GA):
 ![Bed(after GA):](https://github.com/huzhouxiang/shape2gram-mxnet/tree/main/output/bed/images/GA%201.png)
 Bed(GT):
