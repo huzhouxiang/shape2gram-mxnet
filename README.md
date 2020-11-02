@@ -34,13 +34,30 @@ where
 
 
 
-|          |W/O GA | GA | GT  |
+|          | W/O GA | GA | GT  |
 |----------|:----:|:---:|:---:|
-|  Chair | ![Chair(befor GA):](https://github.com/huzhouxiang/shape2gram-mxnet/blob/main/output/chair/images/Before%20GA%201.png) | ![Chair(after GA):](https://github.com/huzhouxiang/shape2gram-mxnet/blob/main/output/chair/images/GA%201.png)  | ![Chair(GT)](https://github.com/huzhouxiang/shape2gram-mxnet/blob/main/output/chair/images/GT%201.png)  |
-| Table |![Table(befor GA):](https://github.com/huzhouxiang/shape2gram-mxnet/blob/main/output/table/images/Before%20GA%201.png)| ![Table(after GA):](https://github.com/huzhouxiang/shape2gram-mxnet/blob/main/output/table/images/GA%201.png) | ![Table(GT)](https://github.com/huzhouxiang/shape2gram-mxnet/blob/main/output/table/images/GT%201.png)  |
-| Sofa | ![Sofa(befor GA):](https://github.com/huzhouxiang/shape2gram-mxnet/blob/main/output/sofa/images/Before%20GA%201.png) | ![Sofa(after GA):](https://github.com/huzhouxiang/shape2gram-mxnet/blob/main/output/sofa/images/GA%201.png)
-| ![Sofa(GT):](https://github.com/huzhouxiang/shape2gram-mxnet/blob/main/output/sofa/images/GT%201.png)  |
-Cabinet |![Cabinet(befor GA):](https://github.com/huzhouxiang/shape2gram-mxnet/blob/main/output/cabinet/images/Before%20GA%201.png) | ![Cabinet(after GA):](https://github.com/huzhouxiang/shape2gram-mxnet/blob/main/output/cabinet/images/GA%201.png) | ![Cabinet(GT)](https://github.com/huzhouxiang/shape2gram-mxnet/blob/main/output/cabinet/images/GT%201.png) |
+|Chair| ![Chair(befor GA):](https://github.com/huzhouxiang/shape2gram-mxnet/blob/main/output/chair/images/Before%20GA%201.png) | ![Chair(after GA):](https://github.com/huzhouxiang/shape2gram-mxnet/blob/main/output/chair/images/GA%201.png)  | ![Chair(GT)](https://github.com/huzhouxiang/shape2gram-mxnet/blob/main/output/chair/images/GT%201.png)|
+|Table|![Table(befor GA):](https://github.com/huzhouxiang/shape2gram-mxnet/blob/main/output/table/images/Before%20GA%201.png)| ![Table(after GA):](https://github.com/huzhouxiang/shape2gram-mxnet/blob/main/output/table/images/GA%201.png) | ![Table(GT)](https://github.com/huzhouxiang/shape2gram-mxnet/blob/main/output/table/images/GT%201.png)|
+|Sofa| ![Sofa(befor GA):](https://github.com/huzhouxiang/shape2gram-mxnet/blob/main/output/sofa/images/Before%20GA%201.png)|![Sofa(after GA):](https://github.com/huzhouxiang/shape2gram-mxnet/blob/main/output/sofa/images/GA%201.png)|![Sofa(GT):](https://github.com/huzhouxiang/shape2gram-mxnet/blob/main/output/sofa/images/GT%201.png)|
+|Cabinet|![Cabinet(befor GA):](https://github.com/huzhouxiang/shape2gram-mxnet/blob/main/output/cabinet/images/Before%20GA%201.png) | ![Cabinet(after GA):](https://github.com/huzhouxiang/shape2gram-mxnet/blob/main/output/cabinet/images/GA%201.png)|![Cabinet(GT)](https://github.com/huzhouxiang/shape2gram-mxnet/blob/main/output/cabinet/images/GT%201.png)|
+|Bed|![Bed(befor GA):](https://github.com/huzhouxiang/shape2gram-mxnet/blob/main/output/bed/images/Before%20GA%201.png)|![Bed(after GA):](https://github.com/huzhouxiang/shape2gram-mxnet/blob/main/output/bed/images/GA%201.png)|![Bed(GT)](https://github.com/huzhouxiang/shape2gram-mxnet/blob/main/output/bed/images/GT%201.png)|
+|Bench|![Bench(befor GA):](https://github.com/huzhouxiang/shape2gram-mxnet/blob/main/output/bench/images/Before%20GA%201.png)|![Bench(after GA):](https://github.com/huzhouxiang/shape2gram-mxnet/blob/main/output/bench/images/GA%201.png)|![Bench(GT)](https://github.com/huzhouxiang/shape2gram-mxnet/blob/main/output/bench/images/GT%201.png)|
+
+
+Bed(befor GA):
+![Bed(befor GA):](https://github.com/huzhouxiang/shape2gram-mxnet/blob/main/output/bed/images/Before%20GA%201.png)
+Bed(after GA):
+![Bed(after GA):](https://github.com/huzhouxiang/shape2gram-mxnet/blob/main/output/bed/images/GA%201.png)
+Bed(GT):
+![Bed(GT)](https://github.com/huzhouxiang/shape2gram-mxnet/blob/main/output/bed/images/GT%201.png)
+
+
+Bench(befor GA):
+![Bench(befor GA):](https://github.com/huzhouxiang/shape2gram-mxnet/blob/main/output/bench/images/Before%20GA%201.png)
+Bench(after GA):
+![Bench(after GA):](https://github.com/huzhouxiang/shape2gram-mxnet/blob/main/output/bench/images/GA%201.png)
+Bed(GT):
+![Bench(GT)](https://github.com/huzhouxiang/shape2gram-mxnet/blob/main/output/bench/images/GT%201.png)
 
 
 Chair(befor GA):
@@ -72,19 +89,6 @@ Cabinet(after GA):
 Cabinet(GT):
 ![Cabinet(GT)](https://github.com/huzhouxiang/shape2gram-mxnet/blob/main/output/cabinet/images/GT%201.png)
 
-Bed(befor GA):
-![Bed(befor GA):](https://github.com/huzhouxiang/shape2gram-mxnet/blob/main/output/bed/images/Before%20GA%201.png)
-Bed(after GA):
-![Bed(after GA):](https://github.com/huzhouxiang/shape2gram-mxnet/blob/main/output/bed/images/GA%201.png)
-Bed(GT):
-![Bed(GT)](https://github.com/huzhouxiang/shape2gram-mxnet/blob/main/output/bed/images/GT%201.png)
 
-
-Bench(befor GA):
-![Bench(befor GA):](https://github.com/huzhouxiang/shape2gram-mxnet/blob/main/output/bench/images/Before%20GA%201.png)
-Bench(after GA):
-![Bench(after GA):](https://github.com/huzhouxiang/shape2gram-mxnet/blob/main/output/bench/images/GA%201.png)
-Bed(GT):
-![Bench(GT)](https://github.com/huzhouxiang/shape2gram-mxnet/blob/main/output/bench/images/GT%201.png)
 
 
