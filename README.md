@@ -23,12 +23,20 @@ I tabulate the comparion of IoU bwteen original paper and this repo as follows.
 |  **W/O GA** | 0.492 | 0.456  | 0.314  | 0.371  |  0.327 | 0.201 |
 | **W GA** | 0.552 | **0.627**  | 0.405  | 0.629  |  0.549  | **0.464** |
 | **Ori** | **0.663** | 0.560 | **0.439**  | **0.649**  |  **0.598**  | 0.461 |
+"W/O GA": Without guided adaption;
+"GA": After guided adaption;
+"Ori": Original paper;
 
 
 ## Visualization of results:
 
-Chair:[chair](https://github.com/huzhouxiang/shape2gram-mxnet/tree/main/output/chair/images/Before GA 1.png)
 
+|          |W/O GA | GA | GT  |
+|----------|:----:|:---:|:---:|
+|  chair | [chair](https://github.com/huzhouxiang/shape2gram-mxnet/tree/main/output/chair/images/Before%20GA%201.png) | [chair](https://github.com/huzhouxiang/shape2gram-mxnet/tree/main/output/chair/images/GA%201.png)  | [chair](https://github.com/huzhouxiang/shape2gram-mxnet/tree/main/output/chair/images/GT%201.png)  |
+| **W GA** | 0.552 | **0.627**  | 0.405  |
+| **Ori** | **0.663** | 0.560 | **0.439**  |
+Chair(befor):[chair](https://github.com/huzhouxiang/shape2gram-mxnet/tree/main/output/chair/images/Before%20GA%201.png)
 
 
 
