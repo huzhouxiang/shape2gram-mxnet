@@ -1,5 +1,5 @@
 ## Learning to Infer and Execute 3D Shape Programs
-This repo is an experiment based on the reserch of:
+This repo is an experiment based on the research of:
 
 ```
 @inproceedings{tian2018learning,
