@@ -33,12 +33,10 @@ where
 ## Visualization of results:
 
 
-|          |W/O GA | GA | GT  |
-|----------|:----:|:---:|:---:|
-|  chair | (https://github.com/huzhouxiang/shape2gram-mxnet/tree/main/output/chair/images/Before%20GA%201.png) | [chair](https://github.com/huzhouxiang/shape2gram-mxnet/tree/main/output/chair/images/GA%201.png)  | [chair](https://github.com/huzhouxiang/shape2gram-mxnet/tree/main/output/chair/images/GT%201.png)  |
-| **W GA** | 0.552 | **0.627**  | 0.405  |
-| **Ori** | **0.663** | 0.560 | **0.439**  |
-Chair(befor):[chair](https://github.com/huzhouxiang/shape2gram-mxnet/tree/main/output/chair/images/Before%20GA%201.png)
+Chair(befor GA):[chair](https://github.com/huzhouxiang/shape2gram-mxnet/tree/main/output/chair/images/Before%20GA%201.png)
+chair(after GA):[chair](https://github.com/huzhouxiang/shape2gram-mxnet/tree/main/output/chair/images/GA%201.png)
+chair(GT):[chair](https://github.com/huzhouxiang/shape2gram-mxnet/tree/main/output/chair/images/GT%201.png)
+
 
 
 
