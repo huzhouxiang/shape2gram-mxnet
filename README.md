@@ -33,11 +33,14 @@ where
 ## Visualization of results:
 
 
-cabinet (generated):
-![plan (generated):](https://github.com/huzhouxiang/Pix2Vox-with-mxnet/blob/master/visualized%20results%20of%20prediction/generated%20volomes/voxels-000022.png)
-cabinet (GT):
-![plan (GT):](https://github.com/huzhouxiang/Pix2Vox-with-mxnet/blob/master/visualized%20results%20of%20prediction/ground%20truth/voxels-000002.png)
 
+|          |W/O GA | GA | GT  |
+|----------|:----:|:---:|:---:|
+|  Chair | ![Chair(befor GA):](https://github.com/huzhouxiang/shape2gram-mxnet/blob/main/output/chair/images/Before%20GA%201.png) | ![Chair(after GA):](https://github.com/huzhouxiang/shape2gram-mxnet/blob/main/output/chair/images/GA%201.png)  | ![Chair(GT)](https://github.com/huzhouxiang/shape2gram-mxnet/blob/main/output/chair/images/GT%201.png)  |
+| Table |![Table(befor GA):](https://github.com/huzhouxiang/shape2gram-mxnet/blob/main/output/table/images/Before%20GA%201.png)| ![Table(after GA):](https://github.com/huzhouxiang/shape2gram-mxnet/blob/main/output/table/images/GA%201.png) | ![Table(GT)](https://github.com/huzhouxiang/shape2gram-mxnet/blob/main/output/table/images/GT%201.png)  |
+| Sofa | ![Sofa(befor GA):](https://github.com/huzhouxiang/shape2gram-mxnet/blob/main/output/sofa/images/Before%20GA%201.png) | ![Sofa(after GA):](https://github.com/huzhouxiang/shape2gram-mxnet/blob/main/output/sofa/images/GA%201.png)
+| ![Sofa(GT):](https://github.com/huzhouxiang/shape2gram-mxnet/blob/main/output/sofa/images/GT%201.png)  |
+Cabinet |![Cabinet(befor GA):](https://github.com/huzhouxiang/shape2gram-mxnet/blob/main/output/cabinet/images/Before%20GA%201.png) | ![Cabinet(after GA):](https://github.com/huzhouxiang/shape2gram-mxnet/blob/main/output/cabinet/images/GA%201.png) | ![Cabinet(GT)](https://github.com/huzhouxiang/shape2gram-mxnet/blob/main/output/cabinet/images/GT%201.png) |
 
 
 Chair(befor GA):
